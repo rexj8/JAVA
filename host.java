@@ -1,3 +1,7 @@
+import java.io.DataOutputStream;
+import java.net.InetSocketAddress;
+import java.net.Socket;
+
 class main {
        public static void main(String[] args){
             try {
